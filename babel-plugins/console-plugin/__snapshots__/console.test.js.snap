@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`tại global scope đơn giản 1`] = `
+""use strict";
+
+inspect('hello babel');"
+`;
